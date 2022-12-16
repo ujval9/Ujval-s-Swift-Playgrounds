@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='constant and variables'/>
+        <page name='Integer'/>
+        <page name='Strings '/>
+        <page name='Arrays &amp; Dictionaries'/>
+        <page name='Enums'/>
+        <page name='Condition Statements (If Else)'/>
+        <page name='Loops'/>
+        <page name='Functions'/>
+        <page name='Closures'/>
+        <page name='Struct '/>
+        <page name='Class'/>
+        <page name='Protocols and Extensions'/>
+        <page name='Optionals'/>
+    </pages>
+</playground>
